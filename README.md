@@ -1,2 +1,0 @@
-# VPSmclick
-Please be guided
